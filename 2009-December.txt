@@ -1,0 +1,19 @@
+From seankrobinson at gmail.com  Thu Dec 17 01:31:02 2009
+From: seankrobinson at gmail.com (Sean Robinson)
+Date: Wed, 16 Dec 2009 17:31:02 -0700
+Subject: [Pythonwifi-announce] Python WiFi v0.5.0
+Message-ID: <9ddeaee50912161631x184f2dbcqe9550b7c92394867@mail.gmail.com>
+
+  I am pleased to announce that I finally got off my backside and uploaded
+version 0.5.0 of Python WiFi.  This is currently only available on
+http://developer.berlios.de/project/showfiles.php?group_id=7134 but I will
+be uploading an egg to the Cheeseshop soon.
+
+-- 
+Sean Robinson
+WiFi Radar - http://wifi-radar.berlios.de
+Python WiFi - http://pythonwifi.wikispot.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pythonwifi-announce/attachments/20091216/2aeaf2a8/attachment.html>
+

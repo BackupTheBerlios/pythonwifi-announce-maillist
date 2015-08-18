@@ -1,0 +1,15 @@
+From seankrobinson at gmail.com  Thu May  7 03:19:25 2009
+From: seankrobinson at gmail.com (Sean Robinson)
+Date: Wed, 6 May 2009 18:19:25 -0700
+Subject: [Pythonwifi-announce] open commits
+Message-ID: <9ddeaee50905061819t665b2dabi27251307cccb559@mail.gmail.com>
+
+  I have pushed all the outstanding commits I have been holding.  This
+represents quite a few changes, but this still needs more testing.
+
+-- 
+Sean Robinson
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pythonwifi-announce/attachments/20090506/7a7b8191/attachment.html>
+

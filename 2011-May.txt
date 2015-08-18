@@ -1,0 +1,21 @@
+From seankrobinson at gmail.com  Sun May  1 18:53:57 2011
+From: seankrobinson at gmail.com (Sean Robinson)
+Date: Sun, 1 May 2011 09:53:57 -0700
+Subject: [Pythonwifi-announce] RFC: new API
+Message-ID: <BANLkTimSSN=djBz5N29f7biXcj0h8k-ouw@mail.gmail.com>
+
+  I am looking to redo the Python WiFi API beyond v0.5.0 and I would
+like the feedback of other developers that are using Python WiFi.  A
+document with an early version of the new API is available at
+http://pythonwifi.wikispot.org/New_API.  Interested parties may edit
+the RFC directly on the wiki page (with or without an account) and/or
+subscribe to the Python WiFi developers mailing list to discuss
+changes.
+
+-- 
+Sean Robinson
+WiFi Radar - http://wifi-radar.berlios.de
+Python WiFi - http://pythonwifi.wikispot.org
+pymnl - http://pymnl.wikispot.org
+
+
